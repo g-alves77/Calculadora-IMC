@@ -22,11 +22,6 @@ public class CalculoIMC {
 		System.out.println("kg/m2");
 		
 		entrada.close();
-		
-		
-		
-		
-		
+			
 	}
-
 }
